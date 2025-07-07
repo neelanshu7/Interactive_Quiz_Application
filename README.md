@@ -22,9 +22,9 @@ Welcome to the **Interactive Quiz Application**, a sleek and dynamic web-based q
 
 ## 📸 Interface Preview
 
-| Home Page | Quiz Rules | Questions |
+| Home Page | Quiz Rules | Questions | Report |
 |----------------|--------------|-------------|
-| ![Home](screenshots/home.png) | ![Rules](screenshots/rules.png) | ![Questions](screenshots/question.png) |
+| ![Home](screenshots/home.png) | ![Rules](screenshots/rules.png) | ![Questions](screenshots/question.png) | ![Report](screenshots/report.png) |
 
 ---
 
