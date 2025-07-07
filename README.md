@@ -34,9 +34,9 @@ You can test your knowledge in:
 
 ## 📸 Interface Preview
 
-| Chat Interface | Emoji Picker | File Upload |
+| Home Page | Quiz Rules | Questions |
 |----------------|--------------|-------------|
-| ![Chat UI](screenshots/chat.png) | ![Emoji](screenshots/emoji.png) | ![File Upload](screenshots/fileupload.png) |
+| ![Chat UI](screenshots/home.png) | ![Emoji](screenshots/rule.png) | ![File Upload](screenshots/questions.png) |
 
 ---
 
