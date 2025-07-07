@@ -36,7 +36,7 @@ You can test your knowledge in:
 
 | Home Page | Quiz Rules | Questions |
 |----------------|--------------|-------------|
-| ![Home](screenshots/home.png) | ![Rules](screenshots/rule.png) | ![Questions](screenshots/questions.png) |
+| ![Home](screenshots/home.png) | ![Rules](screenshots/rules.png) | ![Questions](screenshots/question.png) |
 
 ---
 
