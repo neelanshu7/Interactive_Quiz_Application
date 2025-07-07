@@ -3,6 +3,7 @@
 # 🎯 Interactive Quiz Application
 
 Welcome to the **Interactive Quiz Application**, a sleek and dynamic web-based quiz platform built using **HTML**, **CSS**, and **JavaScript**. Whether you're preparing for exams or just brushing up on your skills, this app makes learning **fun, fast, and interactive**!
+---
 
 ## 🌐 Live Website: [Quiz Application](https://interactive-quiz-application-chi.vercel.app/)
 
