@@ -70,8 +70,3 @@ start index.html
 ├── script.js            # Core JS functionalities
 ├── screenshots/         # Interface Screenshots
 ```
-📌 Future Enhancements
- 
- User login & score history
- Backend integration for dynamic questions
- Dark mode toggle
