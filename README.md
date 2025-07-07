@@ -60,11 +60,11 @@ cd Interactive_Quiz_Application
 start index.html
 ```
 ## 🧩 Folder Structure
-
+```bash
 📁 Interactive_Quiz_Application/
 ├── index.html           # Landing page
 ├── style.css            # Styling and layout
 ├── questions.js         # Question data & logic
 ├── script.js            # Core JS functionalities
 ├── assets/              # Images and icons
-
+```
