@@ -20,17 +20,6 @@ Welcome to the **Interactive Quiz Application**, a sleek and dynamic web-based q
 
 ---
 
-## 🧠 Quiz Subjects
-
-You can test your knowledge in:
-
-- 🖥️ Programming  
-- 🧮 Mathematics  
-- 🧠 Aptitude  
-- 🏛️ History  
-
----
-
 ## 📸 Interface Preview
 
 | Home Page | Quiz Rules | Questions |
