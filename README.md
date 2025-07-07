@@ -4,9 +4,10 @@
 
 Welcome to the **Interactive Quiz Application**, a sleek and dynamic web-based quiz platform built using **HTML**, **CSS**, and **JavaScript**. Whether you're preparing for exams or just brushing up on your skills, this app makes learning **fun, fast, and interactive**!
 
-## Live Website: 
+## 🌐 Live Website: [Quiz Application](https://interactive-quiz-application-chi.vercel.app/)
 
-## Demo Video: 
+## 🎬 Sample Video: [Video](https://drive.google.com/file/d/1cIiCMZzYux8HUHzfiNzVZ0Sjqnp1ddGT/view?usp=sharing)
+
 ---
 
 ## 🚀 Features
@@ -31,9 +32,9 @@ You can test your knowledge in:
 
 ## 📸 Interface Preview
 
-> 🖼️ Home Interface (with Subject & Question Selection)  
-> 🖼️ Quiz Screen (with interactive MCQs and scoring)  
-> 🖼️ Results Display (showing score and feedback)
+| Chat Interface | Emoji Picker | File Upload |
+|----------------|--------------|-------------|
+| ![Chat UI](screenshots/chat.png) | ![Emoji](screenshots/emoji.png) | ![File Upload](screenshots/fileupload.png) |
 
 ---
 
@@ -66,5 +67,5 @@ start index.html
 ├── style.css            # Styling and layout
 ├── questions.js         # Question
 ├── script.js            # Core JS functionalities
-├── assets/              # Images and icons
+├── screenshots/              # Images and icons
 ```
