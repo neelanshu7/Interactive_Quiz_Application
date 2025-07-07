@@ -15,6 +15,7 @@ Welcome to the **Interactive Quiz Application**, a sleek and dynamic web-based q
 ## 🚀 Features
 
 ✅ Real-time score tracking  
+✅ Timer for each question
 ✅ Intuitive and responsive UI  
 ✅ Instant feedback on answers  
 ✅ Smooth transitions and animations
@@ -71,3 +72,8 @@ start index.html
 ├── script.js            # Core JS functionalities
 ├── screenshots/         # Interface Screenshots
 ```
+📌 Future Enhancements
+ 
+ User login & score history
+ Backend integration for dynamic questions
+ Dark mode toggle
