@@ -69,5 +69,5 @@ start index.html
 ├── style.css            # Styling and layout
 ├── questions.js         # Question
 ├── script.js            # Core JS functionalities
-├── screenshots/              # Images and icons
+├── screenshots/         # Interface Screenshots
 ```
