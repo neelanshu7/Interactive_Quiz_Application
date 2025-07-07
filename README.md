@@ -6,7 +6,7 @@ Welcome to the **Interactive Quiz Application**, a sleek and dynamic web-based q
 
 ## 🌐 Live Website: [Quiz Application](https://interactive-quiz-application-chi.vercel.app/)
 
-## 🎬 Sample Video: [Video](https://drive.google.com/file/d/1cIiCMZzYux8HUHzfiNzVZ0Sjqnp1ddGT/view?usp=sharing)
+## 🎬 Sample Video: [Video](https://drive.google.com/file/d/1Quh70khMTmTot3RBxpV1FtT5MN5pW3ts/view?usp=sharing)
 
 ---
 
