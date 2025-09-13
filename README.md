@@ -14,6 +14,7 @@ Welcome to the **Interactive Quiz Application**, a sleek and dynamic web-based q
 
 ✅ Real-time score tracking  
 ✅ Timer for each question
+
 ✅ Intuitive and responsive UI  
 ✅ Instant feedback on answers  
 ✅ Smooth transitions and animations
